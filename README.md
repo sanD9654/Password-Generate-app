@@ -10,7 +10,7 @@ This React-powered tool puts customizable password strength at your fingertips.
 ⚙️ Slide, click, generate — simplicity meets security.  
 💡 Your vault of characters, your rules.
 
-# There are four character generate the password
+There are four character generate the unique password 
 1.Upper Case Character (ABCDEFGHIJKLMNOPQRSTUVWXYZ)
 2.Lower Case Character (abcdefghijklmnopqrstuvwxyz)
 3.Numberic Case Character (0123456789)
